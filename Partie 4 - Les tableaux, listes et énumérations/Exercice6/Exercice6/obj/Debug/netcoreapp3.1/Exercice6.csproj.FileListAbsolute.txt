@@ -1,0 +1,13 @@
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\obj\Debug\netcoreapp3.1\Exercice6.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\obj\Debug\netcoreapp3.1\Exercice6.AssemblyInfo.cs
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\obj\Debug\netcoreapp3.1\Exercice6.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\bin\Debug\netcoreapp3.1\Exercice6.exe
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\bin\Debug\netcoreapp3.1\Exercice6.deps.json
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\bin\Debug\netcoreapp3.1\Exercice6.runtimeconfig.json
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\bin\Debug\netcoreapp3.1\Exercice6.runtimeconfig.dev.json
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\bin\Debug\netcoreapp3.1\Exercice6.dll
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\bin\Debug\netcoreapp3.1\Exercice6.pdb
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\obj\Debug\netcoreapp3.1\Exercice6.dll
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\obj\Debug\netcoreapp3.1\Exercice6.pdb
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\obj\Debug\netcoreapp3.1\Exercice6.genruntimeconfig.cache
+C:\Users\peter\Desktop\Exercice\Partie 4 - Les tableaux, listes et énumérations\Exercice6\Exercice6\obj\Debug\netcoreapp3.1\Exercice6.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\obj\Debug\netcoreapp3.1\Exercice3.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\obj\Debug\netcoreapp3.1\Exercice3.AssemblyInfo.cs
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\obj\Debug\netcoreapp3.1\Exercice3.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\bin\Debug\netcoreapp3.1\Exercice3.exe
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\bin\Debug\netcoreapp3.1\Exercice3.deps.json
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\bin\Debug\netcoreapp3.1\Exercice3.runtimeconfig.json
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\bin\Debug\netcoreapp3.1\Exercice3.runtimeconfig.dev.json
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\bin\Debug\netcoreapp3.1\Exercice3.dll
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\bin\Debug\netcoreapp3.1\Exercice3.pdb
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\obj\Debug\netcoreapp3.1\Exercice3.dll
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\obj\Debug\netcoreapp3.1\Exercice3.pdb
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\obj\Debug\netcoreapp3.1\Exercice3.genruntimeconfig.cache
+C:\Users\peter\Desktop\Exercice\Partie 3 - Les boucles\Exercice3\Exercice3\obj\Debug\netcoreapp3.1\Exercice3.csprojAssemblyReference.cache
